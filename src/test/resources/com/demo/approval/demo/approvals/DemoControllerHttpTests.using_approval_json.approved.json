@@ -1,0 +1,20 @@
+{
+  "mnemonic": "Johnny ?",
+  "familyName": "Capone",
+  "firstName": "Al",
+  "birthName": "Capone",
+  "gender": "M",
+  "birthDate": "1908-02-09",
+  "birthCity": "Chicago",
+  "birthCountryCode": "US",
+  "maritalStatus": "Divorced",
+  "identityDocument": [
+    {
+      "identityDocumentNumber": "090808988",
+      "identityDocumentType": "PI",
+      "issuingCountryCode": "US",
+      "identityDocumentIssueDate": "2020-02-02",
+      "identityDocumentExpirationDate": "2025-02-02"
+    }
+  ]
+}

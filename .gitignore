@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/bin/
+/out/
+.gradle
+build
+.classpath
+.settings
+.project
+.idea/
+/target
+.DS*
+
+.mvn/*
+
+### Approval exclusion ###
+*.received.txt
+*.received.json

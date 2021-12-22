@@ -1,0 +1,30 @@
+{
+  "LastName": "Capone",
+  "FirstName": "Al",
+  "PersonBirthdate": {
+    "year": 1908,
+    "month": 2,
+    "day": 9
+  },
+  "FinServ__Gender__pc": "M",
+  "FinServ__MaritalStatus__pc": "Divorced",
+  "Mnemonic__c": "Johnny ?",
+  "MaidenName__pc": "Capone",
+  "CityOfBirth__pc": "Chicago",
+  "CountryOfBirth__pc": "US",
+  "MarketingInformationSendByEmail__c": false,
+  "MarketingInfoViaBILNetOnlineBanking__c": false,
+  "LegalDocumentExpirationDate1__c": {
+    "year": 2025,
+    "month": 2,
+    "day": 2
+  },
+  "LegalDocumentIssuingCountry1__c": "US",
+  "LegalDocumentIssuingDate1__c": {
+    "year": 2020,
+    "month": 2,
+    "day": 2
+  },
+  "LegalDocumentName1__c": "PI",
+  "LegalDocumentNumber1__c": "090808988"
+}
